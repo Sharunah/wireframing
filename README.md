@@ -29,3 +29,62 @@ In this repository, I’ll explore:
 - Types of wireframes (low-fidelity vs. high-fidelity)
 - Tools like **Figma** for creating wireframes
 - Real-world applications of wireframing in software projects
+
+---
+
+## 🧱 Key Elements of Wireframing
+
+Wireframes break down complex designs into essential components. Below are the four **key elements** of a wireframe and how they contribute to the user experience and design functionality.
+
+---
+
+### 1. 🧩 Layout Structure
+
+**Definition:** The overall framework of the page that defines where elements are placed.
+
+**Purpose:**  
+Establishes a visual hierarchy and guides the user’s attention to what matters most.
+
+**Example:**  
+A homepage might have a layout that includes a top navigation bar, a hero image, a section for featured listings, and a footer. This layout ensures a logical flow and improves usability.
+
+---
+
+### 2. 🧭 Navigation
+
+**Definition:** The interface elements that help users move through the app or website.
+
+**Purpose:**  
+Helps users access different sections with ease and understand where they are at any given time.
+
+**Example:**  
+A wireframe may show a sticky navigation bar with links to “Home,” “Bookings,” “Profile,” and a hamburger menu for mobile devices.
+
+---
+
+### 3. 📄 Content Placement
+
+**Definition:** The positioning of text, images, CTAs (Call to Actions), and interactive elements.
+
+**Purpose:**  
+Makes sure important information is highlighted and supports the page’s purpose.
+
+**Example:**  
+On a product detail page, the property title, price per night, and booking button are placed above the fold to grab attention instantly.
+
+---
+
+### 4. ⚙️ Functionality
+
+**Definition:** Outlines the interactive behavior and features of each element.
+
+**Purpose:**  
+Shows how users will interact with the design, including forms, buttons, filters, and dropdowns.
+
+**Example:**  
+A wireframe for a search page might include a filter sidebar where users can select property types, dates, and price ranges—all key functionalities for the user journey.
+
+---
+
+Together, these elements make up the foundation of user-centered design and help turn ideas into effective, intuitive interfaces.
+
