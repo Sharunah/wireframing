@@ -120,4 +120,28 @@ A hand-drawn layout with boxes showing image placement, text blocks labeled “H
 
 **Definition:**  
 Detailed wireframes that closely resemble the final design, o
+🛠️ Wireframing Tools
+Wireframing tools allow designers to quickly visualize, test, and iterate on user interface ideas before development begins. These tools help teams collaborate, gather feedback, and communicate their design intent effectively. Below are some popular tools used in the industry:
 
+🧰 Popular Wireframing Tools
+Tool	Description
+Figma	Cloud-based design and prototyping tool ideal for collaboration in real-time.
+Adobe XD	Combines wireframing, UI design, and prototyping in one platform.
+Balsamiq	Low-fidelity wireframing tool that mimics sketch-style drawings.
+Sketch	Mac-based design tool known for UI/UX wireframing and digital product design.
+Lucidchart	Great for flowcharts and wireframes, especially for mapping logic or user flows.
+
+🌟 Why Use Figma?
+Figma stands out as one of the most powerful and accessible wireframing tools available. Here’s why:
+
+🌐 Web-Based: No installations needed. Access your projects from any browser.
+
+🤝 Real-Time Collaboration: Multiple team members can design, comment, and give feedback simultaneously.
+
+🧩 Reusable Components: Create design systems with consistent UI components.
+
+🎯 Prototyping Support: Add interactive elements and transitions to simulate user flows.
+
+🔄 Version History: Keep track of changes and revert to previous versions if needed.
+
+📁 Easy Sharing: Share a link with stakeholders for instant viewing or editing.
