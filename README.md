@@ -88,3 +88,36 @@ A wireframe for a search page might include a filter sidebar where users can sel
 
 Together, these elements make up the foundation of user-centered design and help turn ideas into effective, intuitive interfaces.
 
+---
+
+## 🖼️ Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two most common types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+---
+
+### 📝 Low-Fidelity Wireframes
+
+**Definition:**  
+Rough, simple sketches or grayscale layouts with minimal detail. These are often hand-drawn or created using basic digital shapes.
+
+**Use Cases:**  
+- Early brainstorming sessions
+- Quick feedback and iteration
+- Concept validation before investing time in detailed design
+
+**Key Features:**  
+- Placeholder boxes for images (e.g., ⬜)
+- Basic shapes to represent buttons or text
+- No colors, branding, or detailed content
+
+**Example:**  
+A hand-drawn layout with boxes showing image placement, text blocks labeled “Header” or “CTA,” and basic navigation.
+
+---
+
+### 🖥️ High-Fidelity Wireframes
+
+**Definition:**  
+Detailed wireframes that closely resemble the final design, o
+
